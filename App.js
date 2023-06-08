@@ -54,8 +54,7 @@ export default function App(){
         const valueOne = numbers[0].value
         const allValues = numbers.every(number=>number.value===valueOne)
         if(diceheld&&allValues){
-            setTenzies(true)            
-            console.log("You won!")
+            setTenzies(true)
         }}
         ,[numbers])   
     
