@@ -6,7 +6,14 @@ The code to this was generated from scratch. Consider it as Tenzies 2.0 as the f
 To add to that, the game was not yet complete at that stage. 
 <b>Have fun playing the game!</b>
 
-# Getting Started with Create React App
+Quick start:
+
+```
+$ yarn # npm install
+$ yarn build # npm run build
+````
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -76,13 +83,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
 
 ## Development
 
